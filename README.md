@@ -16,3 +16,10 @@ gvm use go1.23.0
 ```sh
 go run main.go
 ```
+
+## Build and run
+
+```sh
+go build main.go
+./main
+```
